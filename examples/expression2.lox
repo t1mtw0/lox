@@ -1,0 +1,1 @@
+var a = (true and false) or (false and false);
